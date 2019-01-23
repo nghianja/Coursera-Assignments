@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04c8877a-02ef-4b9b-9c29-4ec5213b3e99" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/Board/Task/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Board/Task/build/" />
+    <ignored path="$PROJECT_DIR$/Board/Task/out/" />
+    <ignored path="$PROJECT_DIR$/Rationals/Task/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Rationals/Task/build/" />
+    <ignored path="$PROJECT_DIR$/Rationals/Task/out/" />
+    <ignored path="$PROJECT_DIR$/util/.gradle/" />
+    <ignored path="$PROJECT_DIR$/util/build/" />
+    <ignored path="$PROJECT_DIR$/util/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Rationals/Task/src/rationals/Rational.kt" />
+        <option value="$PROJECT_DIR$/Board/Task/src/board/BoardImpl.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Course" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Rationals" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Rationals" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Rationals" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Rationals" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+              <item name="rationals" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Rationals" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="test" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Rationals" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="test" type="61faebc3:DirectoryNode" />
+              <item name="rationals" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Board" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Board" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Board" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Board" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="src" type="61faebc3:DirectoryNode" />
+              <item name="board" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Board" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="test" type="61faebc3:DirectoryNode" />
+            </path>
+            <path>
+              <item name="Kotlin_for_Java_Developers._Week_4" type="a264ea2a:RootNode" />
+              <item name="Kotlin for Java Developers. Week 4" type="ed842865:CourseNode" />
+              <item name="Board" type="d53b8fed:LessonNode" />
+              <item name="Task" type="4928525d:TaskNode" />
+              <item name="test" type="61faebc3:DirectoryNode" />
+              <item name="board" type="61faebc3:DirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548059512096" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestGameBoard">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGameBoard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Board-Task_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="board.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="board" />
+      <option name="MAIN_CLASS_NAME" value="board.TestGameBoard" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRationals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Rationals-Task_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rationals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rationals" />
+      <option name="MAIN_CLASS_NAME" value="rationals.TestRationals" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSquareBoard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Board-Task_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="board.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="board" />
+      <option name="MAIN_CLASS_NAME" value="board.TestSquareBoard" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rationals.RationalKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Rationals-Task_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="rationals.RationalKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestGameBoard" />
+        <item itemvalue="JUnit.TestSquareBoard" />
+        <item itemvalue="Kotlin.rationals.RationalKt" />
+        <item itemvalue="JUnit.TestRationals" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04c8877a-02ef-4b9b-9c29-4ec5213b3e99" name="Default Changelist" comment="" />
+      <created>1547611703455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547611703455</updated>
+      <workItem from="1547611708125" duration="38850000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestGameBoard - 2019.01.21 at 12h 10m 49s.xml">
+      <configuration name="TestGameBoard" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGameBoard - 2019.01.21 at 15h 48m 40s.xml">
+      <configuration name="TestGameBoard" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGameBoard - 2019.01.21 at 15h 56m 57s.xml">
+      <configuration name="TestGameBoard" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGameBoard - 2019.01.21 at 16h 10m 01s.xml">
+      <configuration name="TestGameBoard" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGameBoard - 2019.01.21 at 16h 13m 22s.xml">
+      <configuration name="TestGameBoard" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGameBoard - 2019.01.21 at 16h 17m 28s.xml">
+      <configuration name="TestGameBoard" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGameBoard - 2019.01.21 at 16h 22m 58s.xml">
+      <configuration name="TestGameBoard" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGameBoard - 2019.01.21 at 16h 25m 04s.xml">
+      <configuration name="TestGameBoard" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGameBoard - 2019.01.21 at 16h 30m 52s.xml">
+      <configuration name="TestGameBoard" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGameBoard - 2019.01.21 at 16h 31m 54s.xml">
+      <configuration name="TestGameBoard" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38850000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Task" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Rationals/Task/test/rationals/TestRationals.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="-714" />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rationals/Task/src/rationals/Rational.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="986">
+              <caret line="142" selection-start-line="142" selection-end-line="142" />
+              <folding>
+                <element signature="e#19#116#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Board/Task/test/board/TestSquareBoard.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="-585" />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Board/Task/test/board/TestGameBoard.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="-432" />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Board/Task/src/board/BoardImpl.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="472">
+              <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+              <folding>
+                <element signature="e#15#81#0" expanded="true" />
+              </folding>
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Board/Task/src/board/Board.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="-194">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
