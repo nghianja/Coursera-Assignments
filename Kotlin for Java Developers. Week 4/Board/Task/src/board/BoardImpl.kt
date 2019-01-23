@@ -41,7 +41,10 @@ class SquareBoardImpl(override val width: Int): SquareBoard {
     }
 
     override fun getColumn(iRange: IntProgression, j: Int): List<Cell> {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+        return if (iRange.first <= iRange.last)
+            cells.filter { iRange.contains(it.i) && j == it.j }
+        else
+            cells.filter { iRange.contains(it.i) && j == it.j }.reversed()
     }
 
     override fun Cell.getNeighbour(direction: Direction): Cell? {
