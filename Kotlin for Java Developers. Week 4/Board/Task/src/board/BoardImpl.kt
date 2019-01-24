@@ -1,20 +1,21 @@
 package board
 
 import board.Direction.*
-import java.lang.IllegalArgumentException
 
 fun createSquareBoard(width: Int): SquareBoard = SquareBoardImpl(width)
 fun <T> createGameBoard(width: Int): GameBoard<T> = GameBoardImpl(width)
 
-class SquareBoardImpl(override val width: Int): SquareBoard {
-    private val cells = mutableListOf<Cell>()
+open class SquareBoardImpl(override val width: Int): SquareBoard {
+    private val cells by lazy { initCells() }
 
-    init {
+    private fun initCells(): MutableList<Cell> {
+        val c = mutableListOf<Cell>()
         for (i in 1..width) {
             for (j in 1..width) {
-                cells.add(Cell(i, j))
+                c.add(Cell(i, j))
             }
         }
+        return c
     }
 
     override fun getCellOrNull(i: Int, j: Int): Cell? {
@@ -57,9 +58,8 @@ class SquareBoardImpl(override val width: Int): SquareBoard {
     }
 }
 
-class GameBoardImpl<T>(override val width: Int): GameBoard<T> {
+class GameBoardImpl<T>(override val width: Int): SquareBoardImpl(width), GameBoard<T> {
     private val stores = mutableMapOf<Cell, T?>()
-    private val squares = createSquareBoard(width)
 
     init {
         for (i in 1..width) {
@@ -91,29 +91,5 @@ class GameBoardImpl<T>(override val width: Int): GameBoard<T> {
 
     override fun all(predicate: (T?) -> Boolean): Boolean {
         return stores.filterValues(predicate).count() == width * width
-    }
-
-    override fun getCellOrNull(i: Int, j: Int): Cell? {
-        return squares.getCellOrNull(i, j)
-    }
-
-    override fun getCell(i: Int, j: Int): Cell {
-        return squares.getCell(i, j)
-    }
-
-    override fun getAllCells(): Collection<Cell> {
-        return squares.getAllCells()
-    }
-
-    override fun getRow(i: Int, jRange: IntProgression): List<Cell> {
-        return squares.getRow(i, jRange)
-    }
-
-    override fun getColumn(iRange: IntProgression, j: Int): List<Cell> {
-        return squares.getColumn(iRange, j)
-    }
-
-    override fun Cell.getNeighbour(direction: Direction): Cell? {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
     }
 }
