@@ -11,5 +11,17 @@ package games.gameOfFifteen
  * Thus the initial permutation should be correct.
  */
 fun isEven(permutation: List<Int>): Boolean {
-    TODO()
+    var noCycles = 0
+    val mutablePermutation = permutation.toMutableList()
+    for (j in 1 until mutablePermutation.size) {
+        var i = j - 1
+        val v = mutablePermutation[j]
+        while (i >=0 && mutablePermutation[i] > v) {
+            mutablePermutation[i + 1] = mutablePermutation[i]
+            noCycles += 1
+            i -= 1
+        }
+        mutablePermutation[i + 1] = v
+    }
+    return noCycles % 2 == 0
 }
